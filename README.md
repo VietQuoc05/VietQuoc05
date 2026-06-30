@@ -1,32 +1,19 @@
 ## Hi there 👋 I'm Viet Quoc
 
-### 🚀 Software Engineering Student @ FPT University
+# 💫 About Me:
+🔭 I’m currently working on: Developing and optimizing full-stack web applications and exploring microservices architecture.<br>🌱 I’m currently learning: System design patterns, advanced CI/CD pipelines, and scalable database solutions.<br>👯 I’m looking to collaborate on: Open-source initiatives, innovative startups, or challenging technical projects.<br>🤔 I’m looking for help with: Deep dives into DevOps automation and comprehensive system security practices.<br>⚡ Fun fact: When I'm not coding, you can usually find me cheering for the Argentina national football team 🇦🇷 or following the LPL professional League of Legends esports scene!
 
-Hi! I am a Software Engineering student at FPT University. I am an aspiring **Fullstack Developer** with the versatility to work across modern language ecosystems and frameworks. I am passionate about system optimization, continuous learning, and tackling real-world challenges through code.
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyen.quoc.10549/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_cosouq.vt_/) 
 
-### 💻 Tech Stack & Tools
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VietQuoc05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VietQuoc05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VietQuoc05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Backend** | Java (Spring Boot), Node.js (NestJS) |
-| **Frontend** | ReactJS, Next.js, VueJS |
-| **Database** | SQL & NoSQL |
-| **DevOps & Tools** | Docker, Git, GitHub, GitLab |
 
----
 
-### 📊 GitHub Status
-
-- 🔭 **I’m currently working on:** Developing and optimizing full-stack web applications and exploring microservices architecture.
-- 🌱 **I’m currently learning:** System design patterns, advanced CI/CD pipelines, and scalable database solutions.
-- 👯 **I’m looking to collaborate on:** Open-source initiatives, innovative startups, or challenging technical projects.
-- 🤔 **I’m looking for help with:** Deep dives into DevOps automation and comprehensive system security practices.
-
----
-
-### 📫 Contact Me
-
-*   **Email:** [ngquoc0112@gmail.com](mailto:ngquoc0112@gmail.com)
-⚡ **Fun fact:** When I'm not coding, you can usually find me cheering for the Argentina national football team 🇦🇷 or following the LPL professional League of Legends esports scene!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
