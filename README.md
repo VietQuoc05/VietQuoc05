@@ -9,13 +9,17 @@
 
 # 💻 Tech Stack
 
-Languages & Frontend
+Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nextjs,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,ts,js&theme=dark" />
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro&theme=dark" />
 
 Backend
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nestjs,nginx,swagger&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,nestjs&theme=dark" />
 
 Database
 
