@@ -27,7 +27,7 @@ Database
 
 DevOps, Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,githubactions,gitlab,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,nginx,githubactions,gitlab,git,github,postman&theme=dark" />
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VietQuoc05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=VietQuoc05&theme=dark&hide_border=false)<br/>
