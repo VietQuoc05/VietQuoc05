@@ -34,7 +34,7 @@ DevOps, Cloud & Tools
   <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=VietQuoc05&theme=dark&hide_border=false&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VietQuoc05&theme=react-dark&hide_border=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VietQuoc05&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&cache=1" />
 </p>
 
 
