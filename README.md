@@ -33,9 +33,6 @@ DevOps, Cloud & Tools
   <img height="175" src="https://github-readme-stats.shion.dev/api?username=VietQuoc05&show_icons=true&theme=dark&hide_border=false" />
   <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=VietQuoc05&theme=dark&hide_border=false&layout=compact" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VietQuoc05&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&cache=1" />
-</p>
 
 
 
