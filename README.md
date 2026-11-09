@@ -1,6 +1,4 @@
-## Hi there 👋 I'm Viet Quoc
-
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Developing and optimizing full-stack web applications and exploring microservices architecture.<br>🌱 I’m currently learning: System design patterns, advanced CI/CD pipelines, and scalable database solutions.<br>👯 I’m looking to collaborate on: Open-source initiatives, innovative startups, or challenging technical projects.<br>🤔 I’m looking for help with: Deep dives into DevOps automation and comprehensive system security practices.<br>⚡ Fun fact: When I'm not coding, you can usually find me cheering for the Argentina national football team 🇦🇷 or following the LPL professional League of Legends esports scene!
 
 
