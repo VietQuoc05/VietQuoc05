@@ -21,7 +21,7 @@ Backend
 
 Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase&theme=dark" />
 
 DevOps, Cloud & Tools
 
